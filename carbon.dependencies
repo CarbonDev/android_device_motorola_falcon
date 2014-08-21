@@ -6,12 +6,6 @@
     "revision": "cm-11.0"
   },
   {
-    "remote": "cm",
-    "repository": "CyanogenMod/android_device_motorola_qcom-common",
-    "target_path": "device/motorola/qcom-common",
-    "revision": "cm-11.0"
-  },
-  {
     "remote": "cr",
     "repository": "CarbonDev/android_device_motorola_msm8226-common",
     "target_path": "device/motorola/msm8226-common",
